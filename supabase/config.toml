@@ -1,0 +1,4 @@
+project_id = "ghesudzknaogdsfamyfb"
+
+[functions.generate-image]
+verify_jwt = false
